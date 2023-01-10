@@ -10,7 +10,9 @@
   <p Align="justify">Para fazer o protótipo do projeto foi utilizado o Figma e as imagens retiradas do Google Imagens, Lottie Files, Flat Icons e Scale. Acerca da palheta de cores, foi utilizado o site Adobe Color.</p>
   <p Align="justify">Em relação ao conteúdo, foram feitas pesquisas sobre os tópicos para escrita de textos autorais, recomendações de leitura, vídeos, podcasts e planilhas.</p>
   <li>📄<b>Protótipo feito no Figma</b></li><br>
-  <p align="center"><img src=""></p>
+  <p align="center"><img src="https://github.com/Joaovrt/FechandoAConta/blob/main/Desktop%20-%201.png"></p>
+  <li>💻<b>Link do site</b></li><br>
+  <p Align="justify">O site apresenta alguns problemas de responsividade e não possui integração com um back-end, sendo estes pontos de melhoria futuros. Contudo, o conteúdo está bem informativo e pode ser realmente útil para o planejamento financeiro. Veja aqui: https://fechandoaconta.000webhostapp.com/.</p>
   <li>💡<b> Autores:</b></li><br>
   <p Align="justify">Diogo Pereira Almeida<br>Fernando Silva Martins<br>João Victor Rosa Tagliarini</p>
 </ul>
